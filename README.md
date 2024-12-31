@@ -2,7 +2,7 @@
 
 ## About
 
-Brought to you by CodeMaster7000 Labs:
+Brought to you by TechDreams Innovations Labs:
 
 TradeR is a smart, automated script, coded in Python, to help you invest wisely.
 
